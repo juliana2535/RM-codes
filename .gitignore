@@ -1,0 +1,6 @@
+
+# Ignore avi files
+**/*.avi
+
+#Exclude weights file which has large size
+/Inputs/yolov3.weights
