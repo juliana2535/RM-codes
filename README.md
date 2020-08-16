@@ -9,4 +9,4 @@ Acknowledgments
 ----------------
 - For our implementation of the Particle Filter, we followed [mpatacchiola](https://github.com/mpatacchiola)'s great [motion tracking module](https://github.com/mpatacchiola/deepgaze/blob/master/deepgaze/motion_tracking.py) (who followed the [work of rlabbe](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)).
 
-- Regarding the YOLO, we followed Nayak's [nice tutotrial] (https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/).
+- Regarding the YOLO, we followed [Nayak's nice tutotrial](https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/).
